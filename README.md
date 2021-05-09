@@ -36,3 +36,5 @@ $ jupyter lab
 ## Mantenedores
 
 - [@FacuMastri](https://github.com/FacuMastri)
+- [@camiSebe](https://github.com/camiSebe)
+- [@antonellaponce28](https://github.com/antonellaponce28)
