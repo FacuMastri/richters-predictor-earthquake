@@ -8,3 +8,4 @@ datos/
 
 # Misc
 .DS_Store
+*.html
