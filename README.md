@@ -24,7 +24,7 @@ $ pip3 install jupyterlab pandas numpy
 ### Visualización
 
 ```sh
-$ pip3 install matplotlib seaborn squarify
+$ pip3 install matplotlib seaborn squarify pywaffle
 ```
 
 ## Uso
