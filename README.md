@@ -33,7 +33,9 @@ $ pip3 install matplotlib seaborn squarify pywaffle
 $ jupyter lab
 ```
 
-## Mantenedores
+## Integrantes
+
+Grupo: Pandas en Jupiter
 
 - [@FacuMastri](https://github.com/FacuMastri)
 - [@camiSebe](https://github.com/camiSebe)
