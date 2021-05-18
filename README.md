@@ -4,7 +4,7 @@ Análisis exploratorio y predicción de daños de viviendas de Nepal en el conte
 
 ## Datos
 
-El conjunto de datos de entrenamiento puede descargarse desde [este enlace](https://www.drivendata.org/competitions/57/nepal-earthquake/data/) y debe ubicarse dentro del subdirectorio `data` para que pueda ser leído por los *notebooks*.
+El conjunto de datos puede descargarse desde [este enlace](https://www.drivendata.org/competitions/57/nepal-earthquake/data/) y debe ubicarse dentro del subdirectorio `data` para que pueda ser leído por los *notebooks*.
 
 ## Instalación de dependencias
 
