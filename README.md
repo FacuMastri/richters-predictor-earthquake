@@ -27,6 +27,12 @@ $ pip3 install jupyterlab pandas numpy
 $ pip3 install matplotlib seaborn squarify pywaffle plotly
 ```
 
+### Machine Learning
+
+```sh
+$ pip3 install scikit-learn
+```
+
 ## Uso
 
 ```sh
