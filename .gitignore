@@ -1,6 +1,7 @@
 # Data
 data/
 datos/
+submits-csv
 
 # IPython notebook
 .ipynb_checkpoints
