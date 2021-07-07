@@ -1,0 +1,30 @@
+LightGBM
+
+Con TODAS las features (90) (incluso con los geo level) da 0.7591 pero en DD es 0.6692 - Overfittea
+
+
+
+
+
+
+
+---------------------------------
+RandomForest
+
+Con todas las features (90) (incluso con los geo level) da 0.8120 pero en DD 0.6933 - Overfittea a lo loco
+
+
+
+
+
+---------------------------------
+XGBoost
+
+
+
+
+
+
+
+
+---------------------------------

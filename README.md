@@ -30,7 +30,7 @@ $ pip3 install matplotlib seaborn squarify pywaffle plotly
 ### Machine Learning
 
 ```sh
-$ pip3 install scikit-learn
+$ pip3 install scikit-learn xgboost lightgbm category_encoders
 ```
 
 ## Uso
