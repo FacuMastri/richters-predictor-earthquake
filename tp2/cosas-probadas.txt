@@ -12,7 +12,12 @@ Con TODAS las features (90) (incluso con los geo level) da 0.7591 pero en DD es 
 RandomForest
 
 Con todas las features (90) (incluso con los geo level) da 0.8120 pero en DD 0.6933 - Overfittea a lo loco
-Con todas las features menos los legal_ownership y has_secondary_use (incluso con los geo level) da 0.8031 pero en DD 0.7009 - Overfittea a lo loco
+
+Con todas las features menos los legal_ownership y has_secondary_use (incluso con los geo level) da 0.8031 en test (con 0.7605 en train) pero en DD 0.7009 - Overfittea menos que antes
+
+Con todas las features menos los legal_ownership, has_secondary_use y geo_level_id da 0.8018 pero en DD 0.6986 - No mejora nada, da menos overfit en train pero peor en test
+
+Con todas las features menos los legal_ownership y has_secondary_use (incluso con los geo level). Agrego limpieza de datos. Da test = 0.7566, train = 0.8029, DD = 0.7196 - Overfittea bastante todavia pero mejor score en general.
 
 
 
@@ -21,7 +26,7 @@ Con todas las features menos los legal_ownership y has_secondary_use (incluso co
 ---------------------------------
 XGBoost
 
-
+Con todas las features menos los legal_ownership y has_secondary_use (incluso con los geo level) da 0.8266 en test (con 0.7587 en train) pero en DD da 0.6816
 
 
 
