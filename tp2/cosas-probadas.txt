@@ -19,6 +19,8 @@ Con todas las features menos los legal_ownership, has_secondary_use y geo_level_
 
 Con todas las features menos los legal_ownership y has_secondary_use (incluso con los geo level). Agrego limpieza de datos. Da test = 0.7566, train = 0.8029, DD = 0.7196 - Overfittea bastante todavia pero mejor score en general.
 
+Con todas las features menos los legal_ownership, has_secondary_use, geo level reemplazado por embedding. Da test = 0.7603, train = 0.8058, DD = 0.7441. Bastante bien
+
 
 
 
