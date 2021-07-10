@@ -21,6 +21,10 @@ Con todas las features menos los legal_ownership y has_secondary_use (incluso co
 
 Con todas las features menos los legal_ownership, has_secondary_use, geo level reemplazado por embedding. Da test = 0.7603, train = 0.8058, DD = 0.7441. Bastante bien
 
+Con todas las features menos los legal_ownership, has_secondary_use, geo level reemplazado por embedding. Agregué algunas features basdas en los ids.  Da test = 0.7598, train = 0.8040, DD = 0.7037. Empeora bastante con las nuevas features respecto a la prueba anterior.
+
+
+
 
 
 
