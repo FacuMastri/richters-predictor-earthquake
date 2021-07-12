@@ -25,13 +25,13 @@ Con todas las features menos los legal_ownership, has_secondary_use, geo level r
 
 Con todas las features menos los legal_ownership, has_secondary_use, geo level reemplazado por embedding. Agregué algunas features basdas en los ids.  Da test = 0.7598, train = 0.8040, DD = 0.7037. Empeora bastante con las nuevas features respecto a la prueba anterior.
 
-
-
 Con todas las features menos los legal_ownership, has_secondary_use, geo level reemplazado por embedding. Da test = 0.7572, train = 0.8058, DD = 0.7439. Ya no es random el resultado, lo podemos hallar consistentemente :D
 
 Igual la entrada anterior, pero con las features de las IDs (relacion de IDs). Da test = 0.7562, train = 0.8071, DD = 0.7437. Vemos que el score en test y DD ya se asemejan bastante asi que lo podemos tomar como punto de partida para NO tener que revolear submits.
 
 Igual la entrada anterior, pero con las features de las IDs (cantidad por geo ID). Da test = 0.7565, train = 0.8058, DD = 0.7426. Vemos que el score en test y DD ya se asemejan bastante asi que lo podemos tomar como punto de partida para NO tener que revolear submits.
+
+Con todas las features menos has_secondary_use (aca deje las legal ownership), geo level reemplazado por embedding. Da test = 0.7566, train = 0.8060, DD = ????.
 
 
 
