@@ -44,10 +44,19 @@ Con todas las features menos los legal_ownership, has_secondary_use y algunos de
 
 
 
+
+
 ---------------------------------
 XGBoost
 
 Con todas las features menos los legal_ownership y has_secondary_use (incluso con los geo level) da 0.8266 en test (con 0.7587 en train) pero en DD da 0.6816
+
+Con todas las features menos los legal_ownership y has_secondary_use. Da test = 0.7613, train = 0.7970, DD = 0.7444
+
+Con todas las features menos los legal_ownership, has_secondary_use, sin las probas del lvl 3. Da test = 0.7446, DD = 0.7428
+
+Con todas las features menos los legal_ownership, has_secondary_use, sin las geo level embedded. Da test = 0.7604, DD = 0.7433
+
 
 
 
