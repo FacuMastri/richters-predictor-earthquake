@@ -1,5 +1,6 @@
 LightGBM
 
+Test = 0.7615, DD = 0.7440. Ventaja que entrena rapidisimo.
 
 
 
