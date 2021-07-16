@@ -1,6 +1,8 @@
 LightGBM
 
-Test = 0.7615, DD = 0.7440. Ventaja que entrena rapidisimo.
+Test = 0.7615, train = 0.8010, DD = 0.7440. Ventaja que entrena rapidisimo.
+
+Test = 0.7614, train=0.7954, DD = 0.7445. Le agregue 5 neuronas mas a la red y mejora un poco.
 
 
 
