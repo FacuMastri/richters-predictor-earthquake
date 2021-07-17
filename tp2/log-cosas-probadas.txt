@@ -4,6 +4,8 @@ Test = 0.7615, train = 0.8010, DD = 0.7440. Ventaja que entrena rapidisimo.
 
 Test = 0.7614, train=0.7954, DD = 0.7445. Le agregue 5 neuronas mas a la red y mejora un poco.
 
+Test = 0.7619, train=0.7834, DD=0.7446. Cambie learning_rate a 0.05 y estimadores a 530.
+
 
 
 
@@ -54,6 +56,8 @@ Con todas las features menos los legal_ownership, has_secondary_use, sin las pro
 Con todas las features menos los legal_ownership, has_secondary_use, sin las geo level embedded. Da test = 0.7604, DD = 0.7433
 
 Features menos legal_ownership, has_secondary_use, plan_configuration, altura_al_cuadrado, construida_antes_de_codigo, anio_edificacion, construida_antes_de_codigo. Da test = 0.7619, train = 0.7966, DD = 0.7443
+
+Con las nuevas features de la red neuronal. Da test=0.7611, train=0.7983, DD=0.7448
 
 
 
