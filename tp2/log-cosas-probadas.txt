@@ -6,6 +6,12 @@ Test = 0.7614, train=0.7954, DD = 0.7445. Le agregue 5 neuronas mas a la red y m
 
 Test = 0.7619, train=0.7834, DD=0.7446. Cambie learning_rate a 0.05 y estimadores a 530.
 
+Test = 0.7625, train=0.7834, DD=0.7456. Agregue feature agrupando las columnas de has_superstructure y le aplique target encoding. Dejé las columnas booleanas para el modelo igual.
+
+Test = 0.7619, train=0.7840, DD=0.7457. Agregue solo las de has_secondary_use
+
+
+
 
 
 
