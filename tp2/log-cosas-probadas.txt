@@ -65,6 +65,8 @@ Features menos legal_ownership, has_secondary_use, plan_configuration, altura_al
 
 Con las nuevas features de la red neuronal. Da test=0.7611, train=0.7983, DD=0.7448
 
+Train=0.7984, test=0.7626, DD=0.7453. Agrego las de has_secondary_use
+
 
 
 
