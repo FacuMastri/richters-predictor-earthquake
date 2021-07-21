@@ -10,6 +10,8 @@ Test = 0.7625, train=0.7834, DD=0.7456. Agregue feature agrupando las columnas d
 
 Test = 0.7619, train=0.7840, DD=0.7457. Agregue solo las de has_secondary_use
 
+Test = 0.7677, train=0.7835, DD=0.7461, Cambie el seed del split y del clasificador.
+
 
 
 
