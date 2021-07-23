@@ -12,11 +12,18 @@ Test = 0.7619, train=0.7840, DD=0.7457. Agregue solo las de has_secondary_use
 
 Test = 0.7677, train=0.7835, DD=0.7461, Cambie el seed del split y del clasificador.
 
+Test = 0.7513, train=0.7925, DD=0.7473, GridSearchCV=0.7462. Viene con los nuevos parametros que salen del tuneo.
+
+
+
+
 --------------------------------
 
 Ensamble de 5 LGBM
 
-Test = 0.7501, DD=0.7514. Todas las features menos las de las probas condicionales. Ensamble de 5 LGBM con distintas cantidad de arboles. Probado con 5-fold
+Test = 0.7501, DD=0.7514. Todas las features menos las de las probas condicionales. Ensamble de 5 LGBM con distintas cantidad de arboles, learning_rate=0.1 Probado con 5-fold
+DD=0.7512. Todas las features menos las de las probas condicionales. Ensamble de 5 LGBM con distintas cantidad de arboles, learning_rate=0.05 Probado con 5-fold
+
 
 
 
