@@ -14,6 +14,8 @@ Test = 0.7677, train=0.7835, DD=0.7461, Cambie el seed del split y del clasifica
 
 Test = 0.7513, train=0.7925, DD=0.7473, GridSearchCV=0.7462. Viene con los nuevos parametros que salen del tuneo.
 
+Test = 0.7521, train=0.8199, DD=0.7490. Tuneando los estimadores respecto a los parametros tuneados del log anterior
+
 
 
 
