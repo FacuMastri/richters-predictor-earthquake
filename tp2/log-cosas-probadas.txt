@@ -22,7 +22,10 @@ Test = 0.7513, train=0.7925, DD=0.7473, GridSearchCV=0.7462. Viene con los nuevo
 Ensamble de 5 LGBM
 
 Test = 0.7501, DD=0.7514. Todas las features menos las de las probas condicionales. Ensamble de 5 LGBM con distintas cantidad de arboles, learning_rate=0.1 Probado con 5-fold
+
 DD=0.7512. Todas las features menos las de las probas condicionales. Ensamble de 5 LGBM con distintas cantidad de arboles, learning_rate=0.05 Probado con 5-fold
+
+Test = 0.7505, Train=0.8216, DD=0.7508. Nuevos parametros salidos de tuning pero no resultan para el ensamble en general. Ensamble de 5-fold
 
 
 
